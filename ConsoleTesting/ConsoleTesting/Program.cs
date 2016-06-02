@@ -15,6 +15,7 @@ namespace ConsoleTesting
             Console.WriteLine("myfirstte\tmyfirst test");
 
             Console.ReadLine();
+            Console.Write("testing");
         }
     }
 }

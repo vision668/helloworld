@@ -13,7 +13,7 @@ namespace ConsoleTesting
         static void Main(string[] args)
         {
             Console.WriteLine("myfirstte\tmyfirst test");
-
+            Console.ReadLine();
             Console.ReadLine();
             Console.Write("testing");
         }

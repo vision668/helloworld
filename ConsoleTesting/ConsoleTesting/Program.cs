@@ -17,6 +17,7 @@ namespace ConsoleTesting
             Console.ReadLine();
             Console.WriteLine("second test");
             Console.Write("testing");
+            Console.Write("testing  678");
         }
     }
 }
